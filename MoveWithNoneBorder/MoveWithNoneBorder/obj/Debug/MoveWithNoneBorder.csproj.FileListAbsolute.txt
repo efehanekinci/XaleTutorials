@@ -1,0 +1,9 @@
+C:\Users\ertug\Desktop\MoveWithNoneBorder\MoveWithNoneBorder\obj\Debug\MoveWithNoneBorder.csprojAssemblyReference.cache
+C:\Users\ertug\Desktop\MoveWithNoneBorder\MoveWithNoneBorder\obj\Debug\MoveWithNoneBorder.Properties.Resources.resources
+C:\Users\ertug\Desktop\MoveWithNoneBorder\MoveWithNoneBorder\obj\Debug\MoveWithNoneBorder.csproj.GenerateResource.cache
+C:\Users\ertug\Desktop\MoveWithNoneBorder\MoveWithNoneBorder\obj\Debug\MoveWithNoneBorder.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\MoveWithNoneBorder\MoveWithNoneBorder\bin\Debug\MoveWithNoneBorder.exe.config
+C:\Users\ertug\Desktop\MoveWithNoneBorder\MoveWithNoneBorder\bin\Debug\MoveWithNoneBorder.exe
+C:\Users\ertug\Desktop\MoveWithNoneBorder\MoveWithNoneBorder\bin\Debug\MoveWithNoneBorder.pdb
+C:\Users\ertug\Desktop\MoveWithNoneBorder\MoveWithNoneBorder\obj\Debug\MoveWithNoneBorder.exe
+C:\Users\ertug\Desktop\MoveWithNoneBorder\MoveWithNoneBorder\obj\Debug\MoveWithNoneBorder.pdb
