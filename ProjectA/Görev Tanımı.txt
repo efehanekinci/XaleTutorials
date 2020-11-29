@@ -1,0 +1,7 @@
+> Yeni proje : a
+ :: Visual Studio
+ :: Evrensel Xale Tasarımı Yapılacak
+ :: Roundminasyon Tanıtımı yapılacak
+ :: Gölgelendirme işlemleri yapıalcak 
+ :: Elementium Browser Seri Halinde Bitirilecek
+	> cef sharp, geckofx vs.
