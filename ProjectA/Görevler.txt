@@ -1,6 +1,0 @@
-> Yeni proje : a
- :: Visual Studio
- :: Evrensel Xale Tasarımı Yapılacak
- :: Roundminasyon Tanıtımı yapılacak
- :: Gölgelendirme işlemleri yapıalcak 
- :: ProjeA Browser Seri Halinde Bitirilecek
